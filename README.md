@@ -1,6 +1,6 @@
 # DEVSOC Landing Page
 
-Welcome to the [Your Club's Name] landing page repository! This project is part of our Hacktoberfest initiative, where students can contribute by designing and coding our official club website using vanilla HTML, CSS, and JavaScript.
+Welcome to the DevSoc landing page repository! This project is part of our Hacktoberfest initiative, where students can contribute by designing and coding our official club website using vanilla HTML, CSS, and JavaScript.
 
 <hr />
 
@@ -23,15 +23,15 @@ We're inviting contributors to:
 ### 🛠️ How to Contribute
 
 1. Fork the repository and clone it to your local machine.<br/>
-2. Create a new branch for your feature or bug fix.
+2. Create a new branch for your feature or bug fix.<br/>
    `git checkout -b feature/your-feature-name`
    <br/>
 3. Work on your design or coding changes.<br/>
 4. Add your name to the <code>contributors.txt</code> file.<br/>
-5. Commit your changes with clear and descriptive messages.
+5. Commit your changes with clear and descriptive messages.<br/>
    `git commit -m "added new design for the hero section"`
    <br/>
-6. Push your changes to your branch.
+6. Push your changes to your branch.<br/>
    `git push origin feature/your-feature-name`
    <br/>
 7. Create a Pull Request (PR) and describe your changes in detail.
@@ -48,7 +48,7 @@ We're inviting contributors to:
 
 ### ⚡ Getting Started with the Project
 
-1. Clone the repository:
+1. Clone the repository:<br/>
    `git clone https://github.com/YourClubName/landing-page.git && cd landing-page`
    <br/>
 2. Open <code>index.html</code> in your browser to view the project.
